@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ae306b1-41be-47d7-a6dc-180b40233061" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c4dF1DbsqxNzeBH3mRM6DTnnsp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../com.wcq.interview" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wcq.customer.rdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.wordcount (1)">
+    <configuration name="HighKafkaSparkStreaming" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wcq.kafka.HighKafkaSparkStreaming" />
+      <module name="SparkStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wcq.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RDDStream" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RDDStream" />
+      <module name="SparkStreaming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rddqueue" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wcq.rdd.rddqueue" />
+      <module name="SparkStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wcq.rdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wordcount (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wcq.wordcount" />
+      <module name="SparkSqlDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wcq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wordcount3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wcq.wordcount.wordcount3" />
+      <module name="SparkStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wcq.wordcount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.wordcount (1)" />
+        <item itemvalue="Application.wordcount3" />
+        <item itemvalue="Application.HighKafkaSparkStreaming" />
+        <item itemvalue="Application.RDDStream" />
+        <item itemvalue="Application.rddqueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae306b1-41be-47d7-a6dc-180b40233061" name="Default Changelist" comment="" />
+      <created>1589791691863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589791691863</updated>
+      <workItem from="1589791696467" duration="275000" />
+      <workItem from="1589792004923" duration="3131000" />
+      <workItem from="1589803462201" duration="1180000" />
+      <workItem from="1589955273333" duration="6361000" />
+      <workItem from="1590049796439" duration="4765000" />
+      <workItem from="1590138617518" duration="7057000" />
+      <workItem from="1590206573925" duration="12494000" />
+      <workItem from="1590230143800" duration="1063000" />
+      <workItem from="1590324202628" duration="146000" />
+      <workItem from="1590664422232" duration="686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="990" y="255" key="#Project_Structure" timestamp="1590217304188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="990" y="255" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1590217304188" />
+    <state x="1168" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590230183724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1168" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590230183724" />
+    <state x="989" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590145290482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="989" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590145290482" />
+    <state x="1155" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1590211673364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1155" y="384" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590211673364" />
+    <state x="1064" y="264" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590217109855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1064" y="264" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590217109855" />
+    <state x="1072" y="239" width="429" height="486" key="FileChooserDialogImpl" timestamp="1590665108513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1072" y="239" width="429" height="486" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590665108513" />
+    <state width="1119" height="174" key="GridCell.Tab.0.bottom" timestamp="1590665109427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1119" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590665109427" />
+    <state width="1119" height="174" key="GridCell.Tab.0.center" timestamp="1590665109427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1119" height="174" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590665109427" />
+    <state width="1119" height="174" key="GridCell.Tab.0.left" timestamp="1590665109427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1119" height="174" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590665109427" />
+    <state width="1119" height="174" key="GridCell.Tab.0.right" timestamp="1590665109427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1119" height="174" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590665109427" />
+    <state x="771" y="234" key="SettingsEditor" timestamp="1590054059777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="234" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590054059777" />
+    <state x="661" y="274" width="1259" height="726" key="new project wizard" timestamp="1590324351793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="274" width="1259" height="726" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590324351793" />
+    <state x="1131" y="358" width="672" height="678" key="search.everywhere.popup" timestamp="1590210677015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1131" y="358" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590210677015" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/SparkStreaming/src/main/scala/com/wcq/wordcount/wordcount3.scala</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/SparkSqlDemo/src/main/scala/com/wcq/wordcount.scala</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
