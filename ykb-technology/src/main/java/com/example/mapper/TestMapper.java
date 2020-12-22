@@ -2,8 +2,12 @@ package com.example.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.example.pojo.Test;
-import org.mapstruct.Mapper;
+import org.apache.ibatis.annotations.Mapper;
+import org.springframework.stereotype.Repository;
 
-@Mapper
+/**
+ * @author 76950
+ */
+//@Mapper
 public interface TestMapper extends BaseMapper<Test> {
 }
