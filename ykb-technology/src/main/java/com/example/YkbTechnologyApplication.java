@@ -13,7 +13,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableDiscoveryClient
 @EnableFeignClients(basePackages = AppConstants.BASE_PACKAGE)
 @SpringBootApplication(scanBasePackages = {AppConstants.BASE_PACKAGE})
-@MapperScan(basePackages = "com.example.*")
+//@MapperScan(basePackages = "com.example.*")
 public class YkbTechnologyApplication {
 
     public static void main(String[] args) {

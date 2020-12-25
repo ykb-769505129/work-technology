@@ -8,6 +8,6 @@ import org.springframework.stereotype.Repository;
 /**
  * @author 76950
  */
-//@Mapper
+@Mapper
 public interface TestMapper extends BaseMapper<Test> {
 }
