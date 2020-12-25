@@ -87,6 +87,7 @@ public class Http_Request {
 
 
     //平安辛子寨 用到的方法，具体可行否看实际情况，可用概率应该较低
+    //用到lib下的 artemis-http-client-1.1.3.jar 包 , 这个包未找到对应maven依赖，所以在新项目中慎用
     /**
      * 请根据技术支持提供的实际的平台IP/端口和API网关中的合作方信息更换static静态块中的三个参数.
      * [1 host]
@@ -101,9 +102,18 @@ public class Http_Request {
      *
      */
     static {
-        ArtemisConfig.host = "124.93.23.27:443"; // 平台/nginx的IP和端口（https端口默认为443）
-        ArtemisConfig.appKey = "23833075"; // 合作方Key
-        ArtemisConfig.appSecret = "GUGxBbxpXPqP6gQ3QTD8";// 合作方Secret
+        /**
+         * 平台/nginx的IP和端口（https端口默认为443）
+         */
+        ArtemisConfig.host = "124.93.23.27:443";
+        /**
+         * 合作方Key
+         */
+        ArtemisConfig.appKey = "23833075";
+        /**
+         * 合作方Secret
+         */
+        ArtemisConfig.appSecret = "GUGxBbxpXPqP6gQ3QTD8";
     }
 
     /**

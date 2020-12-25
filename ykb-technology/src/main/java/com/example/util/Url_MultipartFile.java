@@ -14,6 +14,10 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+/**
+ * 文件下载方式 转换等功能工具
+ * @author 76950
+ */
 @Component
 public class Url_MultipartFile {
 

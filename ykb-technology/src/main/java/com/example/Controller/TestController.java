@@ -7,19 +7,9 @@ import com.example.util.SuperSimpleController;
 import com.example.util.Url_MultipartFile;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
-import org.apache.commons.fileupload.FileItem;
-import org.apache.commons.fileupload.FileItemFactory;
-import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.springframework.web.bind.annotation.*;
-import org.apache.http.entity.ContentType;
-
-import com.alibaba.fastjson.JSONObject;
 import org.springframework.web.multipart.MultipartFile;
-import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
-import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -42,13 +32,6 @@ public class TestController extends SuperSimpleController<TestService, Test> {
         test.setSex(strings);
         return string;
     }
-
-//    @PostMapping("/postText")
-//    @ApiOperation(value = "测试post")
-//    public Safe2 postText(@RequestBody Safe2 safe){
-//        return safe;
-//    }
-
 
     @PostMapping("/postText")
     @ApiOperation(value = "对接post")
