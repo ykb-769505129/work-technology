@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.lang.reflect.ParameterizedType;
 
+
 /**
  * 简单的实现了BaseController，为了获取注入 Service 和 实体类型
  *

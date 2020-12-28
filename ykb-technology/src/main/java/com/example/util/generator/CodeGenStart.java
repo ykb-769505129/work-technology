@@ -21,7 +21,7 @@ public class CodeGenStart {
         /**
          * 生成文件的存放地址
          */
-        String packageName = "com.senyint.api";
+        String packageName = "com.example";
 
         /**
          * 所要生成表的前缀 需要全部生成时请为 ""
