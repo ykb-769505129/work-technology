@@ -1,4 +1,4 @@
-package com.example.Controller;
+package com.example.controller;
 
 //import com.example.util.Rs;
 import com.example.pojo.*;
@@ -49,11 +49,6 @@ public class TestController extends SuperSimpleController<TestService, Test> {
         list.add(deviceResponse3);
         safe2.setList(list);
         return deviceRes1;
-    }
-
-    public static void main(String[] args) throws Exception {
-        MultipartFile fileItem = Url_MultipartFile.createFileItem("https://xiaoxijiyu.oss-cn-beijing.aliyuncs.com/2.jpg?Expires=1608735576&OSSAccessKeyId=TMP.3Kj9EenrjhbxCzRL1RuN4dwiomGfTUMmQBSnCrr2Nze5mjF4nX4PQWN6i1qk2BGL7wXsehgm6g5AmzdmqhYwQm5GbVBVe7&Signature=CbsxS5dsoKClhiY17DF8M7plIAc%3D&versionId=CAEQEBiBgMD2ycu_tBciIDdhNzg3NzE3MjY2MzRkMTg5OWI4NGFiZjBjNThjOWU3&response-content-type=application%2Foctet-stream", "2.jpg");
-        System.out.println("fileItem{}"+fileItem);
     }
 
 }
